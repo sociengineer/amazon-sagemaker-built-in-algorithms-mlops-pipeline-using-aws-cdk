@@ -105,10 +105,10 @@ Through this external configuration injection, multiple deployments(multiple acc
 
 ### **Install dependecies & Bootstrap**
 
-For more details, open `scripts/setup_initial.sh` file.
+For more details, open `script/setup_initial.sh` file.
 
 ```bash
-sh scripts/setup_initial.sh config/app-config-demo.json
+sh script/setup_initial.sh config/app-config-demo.json
 ```
 
 ### **Deploy stacks**
